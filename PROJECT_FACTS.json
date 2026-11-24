@@ -1,7 +1,29 @@
 {
-  "name": "JANUS NDX-1 | Explainable Market Intelligence Dashboard",
-  "stack": "Next.js, React, TypeScript, SQLite, Recharts, Tailwind, Vitest",
-  "project_status": "The source README describes v1.2 recording with a daily snapshot framework. Mock records are explicitly not live investment results. The breadth input remains a proxy.",
-  "no_production_code_included": true,
-  "not_deployed": true
+  "project": "JANUS NDX-1",
+  "portfolio_title": "Explainable Market Intelligence Dashboard",
+  "category": "data analytics dashboard",
+  "technologies": [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "SQLite",
+    "Recharts",
+    "Tailwind CSS",
+    "Vitest"
+  ],
+  "showcase_type": "documentation-only",
+  "private_source_repository": true,
+  "public_source_code_included": false,
+  "live_demo_included": false,
+  "screenshots_included": false,
+  "original_git_history_included": false,
+  "status": "Private README documents a v1.2 dashboard with source/fallback labels and daily recordkeeping; public showcase does not verify deployment or accuracy.",
+  "limitations": [
+    "Not a trading bot or financial advice",
+    "Breadth signal is a proxy",
+    "Mock/fallback data are not real historical track record"
+  ],
+  "owner": "Benjamin Jackson",
+  "development_approach": "AI-assisted development and product direction",
+  "metrics_independently_verified_in_showcase": false
 }
