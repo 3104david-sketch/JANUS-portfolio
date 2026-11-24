@@ -1,0 +1,7 @@
+{
+  "name": "JANUS NDX-1 | Explainable Market Intelligence Dashboard",
+  "stack": "Next.js, React, TypeScript, SQLite, Recharts, Tailwind, Vitest",
+  "project_status": "The source README describes v1.2 recording with a daily snapshot framework. Mock records are explicitly not live investment results. The breadth input remains a proxy.",
+  "no_production_code_included": true,
+  "not_deployed": true
+}
