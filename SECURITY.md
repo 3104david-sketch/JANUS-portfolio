@@ -1,3 +1,9 @@
 # Public showcase security
 
-This repository contains only project narrative and non-sensitive metadata. Do not commit production source files, API keys, environment variables, OAuth tokens, customer data, leads, call transcripts, webhook payloads, account identifiers, internal prices, or Git history from private repos. All future demo data must be fictional and explicitly labeled. Review each file and image before uploading.
+This is a documentation-only portfolio repository. Production code, credentials, customer information, deployment files, and private commit history are intentionally excluded.
+
+Do not commit secrets, API keys, tokens, environment files, private keys, customer records, credentials, proprietary company documents, or private source files without a full review. Any future examples must be fictional and clearly labeled.
+
+The project descriptions are not evidence of independently audited performance, deployments, or investment returns.
+
+For questions, use GitHub Issues without posting confidential information.
